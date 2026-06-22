@@ -1,4 +1,4 @@
-# Calculadora Neon Glass 3.0
+# BlackCalculator 3.5
 
 Aplicación de escritorio desarrollada en **Python** con **Tkinter**, orientada al cálculo matemático y al aprendizaje, con una interfaz gráfica inspirada en la estética **Windows 11**, incorporando una paleta **dark/neon**, panel lateral de navegación y una organización visual más moderna que una calculadora tradicional hecha en Tkinter.
 
