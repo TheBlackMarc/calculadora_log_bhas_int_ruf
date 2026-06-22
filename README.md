@@ -6,22 +6,6 @@ El proyecto integra en una sola ventana distintos módulos matemáticos —**Log
 
 ---
 
-## Tabla de contenidos
-
-- [Características](#características)
-- [Módulos disponibles](#módulos-disponibles)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Capturas / interfaz](#capturas--interfaz)
-- [Instalación](#instalación)
-- [Ejecución](#ejecución)
-- [Estructura del proyecto](#estructura-del-proyecto)
-- [Detalles técnicos](#detalles-técnicos)
-- [Roadmap](#roadmap)
-- [Licencia](#licencia)
-- [Autor](#autor)
-
----
-
 ## Características
 
 - Interfaz gráfica moderna con inspiración visual en **Windows 11**
